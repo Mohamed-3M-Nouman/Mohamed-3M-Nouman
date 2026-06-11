@@ -54,6 +54,6 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en" alt="Mohamed Nouman" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact" alt="Mohamed Nouman" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Mohamed-3M-Nouman&show_icons=true&locale=en" alt="Mohamed Nouman" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-3M-Nouman&show_icons=true&locale=en&layout=compact" alt="Mohamed Nouman" />
 </p>
